@@ -1,4 +1,3 @@
 ﻿  main.cpp
-main.obj : error LNK2019: unresolved external symbol "int __cdecl checkwin(void)" (?checkwin@@YAHXZ) referenced in function _main
-main.obj : error LNK2019: unresolved external symbol "void __cdecl board(void)" (?board@@YAXXZ) referenced in function _main
-D:\AIE\c++ projects\tictactoegamecpp\tictactoe\Debug\tictactoe.exe : fatal error LNK1120: 2 unresolved externals
+D:\AIE\c++ projects\tictactoegamecpp\tictactoe\main.cpp(16,9): error C3861: 'board': identifier not found
+D:\AIE\c++ projects\tictactoegamecpp\tictactoe\main.cpp(63,5): error C3861: 'board': identifier not found
